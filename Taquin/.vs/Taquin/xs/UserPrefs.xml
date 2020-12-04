@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6E79C741-105A-4269-ACEC-9C14A9EF6F46}|Default">
+  <MonoDevelop.Ide.ItemProperties.Taquin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Taquin/Solver.cs">
+    <Files>
+      <File FileName="Taquin/Program.cs" Line="17" Column="15" />
+      <File FileName="Taquin/Board.cs" Line="1" Column="1" />
+      <File FileName="Taquin/Solver.cs" Line="11" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Taquin" expanded="True">
+            <Node name="Taquin" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Solver.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

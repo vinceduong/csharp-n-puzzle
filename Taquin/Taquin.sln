@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taquin", "Taquin\Taquin.csproj", "{6E79C741-105A-4269-ACEC-9C14A9EF6F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E79C741-105A-4269-ACEC-9C14A9EF6F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E79C741-105A-4269-ACEC-9C14A9EF6F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E79C741-105A-4269-ACEC-9C14A9EF6F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E79C741-105A-4269-ACEC-9C14A9EF6F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41999D66-E31A-496F-B18F-6B928E14E2CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/bin/Debug/netcoreapp3.1/Taquin.deps.json
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/bin/Debug/netcoreapp3.1/Taquin.runtimeconfig.json
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/bin/Debug/netcoreapp3.1/Taquin.runtimeconfig.dev.json
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/bin/Debug/netcoreapp3.1/Taquin.dll
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/bin/Debug/netcoreapp3.1/Taquin.pdb
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.csprojAssemblyReference.cache
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.AssemblyInfoInputs.cache
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.AssemblyInfo.cs
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.csproj.CoreCompileInputs.cache
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.dll
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.pdb
+/Users/vduong/projetsLBC/taquin_cs/Taquin/Taquin/obj/Debug/netcoreapp3.1/Taquin.genruntimeconfig.cache
